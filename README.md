@@ -88,7 +88,7 @@ Response body validation
 
 Filtering array responses
 
-Dynamic variables (bookId, orderId, accessToken) - I use environment variables to test in stage and QA and global variables for all environments.
+Dynamic variables (bookId, orderId, accessToken) - I use environment variables to test in staging and QA environment and global variables for both.
 
 Randomized input ({{$randomFullName}})
 
